@@ -1,0 +1,700 @@
+2024-07-08 00:08:55 [WARNING] [CPUOverload] CPU usage has been above 77% for the last 12 minutes.
+2024-07-08 10:16:08 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 10:50:30 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'log.txt'.
+2024-07-08 07:09:13 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 04:59:33 [WARNING] [CPUOverload] CPU usage has been above 65% for the last 25 minutes.
+2024-07-08 08:03:58 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 47 seconds.
+2024-07-08 15:12:38 [WARNING] [CPUOverload] CPU usage has been above 27% for the last 18 minutes.
+2024-07-08 14:20:34 [WARNING] [LowDiskSpace] Disk space is below 75% on drive 'G:'.
+2024-07-08 09:46:44 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 21 seconds.
+2024-07-08 21:56:09 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (190ms).
+2024-07-08 07:04:17 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 30 seconds.
+2024-07-08 13:03:26 [WARNING] [HighMemoryUsage] Memory usage has exceeded 4% of total capacity.
+2024-07-08 16:52:29 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 05:59:48 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (425ms).
+2024-07-08 04:01:20 [WARNING] [LowDiskSpace] Disk space is below 51% on drive 'D:'.
+2024-07-08 06:34:29 [WARNING] [CPUOverload] CPU usage has been above 93% for the last 22 minutes.
+2024-07-08 06:28:18 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (163ms).
+2024-07-08 04:49:54 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 21:06:30 [WARNING] [HighMemoryUsage] Memory usage has exceeded 6% of total capacity.
+2024-07-08 23:28:40 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 02:17:57 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/logs'.
+2024-07-08 09:23:42 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 43 seconds.
+2024-07-08 00:36:20 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'data.csv'.
+2024-07-08 13:40:16 [WARNING] [CPUOverload] CPU usage has been above 48% for the last 13 minutes.
+2024-07-08 20:23:06 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/logs'.
+2024-07-08 04:14:40 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 19 seconds.
+2024-07-08 12:53:11 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (488ms).
+2024-07-08 21:28:21 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (183ms).
+2024-07-08 15:34:16 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (342ms).
+2024-07-08 14:51:37 [WARNING] [CPUOverload] CPU usage has been above 94% for the last 16 minutes.
+2024-07-08 13:01:58 [WARNING] [LowDiskSpace] Disk space is below 89% on drive 'D:'.
+2024-07-08 02:28:52 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 32 seconds.
+2024-07-08 07:29:20 [WARNING] [LowDiskSpace] Disk space is below 73% on drive 'G:'.
+2024-07-08 21:13:28 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 07:42:22 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'image.png'.
+2024-07-08 17:48:17 [WARNING] [CPUOverload] CPU usage has been above 49% for the last 8 minutes.
+2024-07-08 17:37:49 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/data'.
+2024-07-08 05:27:00 [WARNING] [HighMemoryUsage] Memory usage has exceeded 27% of total capacity.
+2024-07-08 17:18:09 [WARNING] [HighMemoryUsage] Memory usage has exceeded 30% of total capacity.
+2024-07-08 02:56:43 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'log.txt'.
+2024-07-08 11:55:27 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'image.png'.
+2024-07-08 19:49:26 [WARNING] [CPUOverload] CPU usage has been above 55% for the last 27 minutes.
+2024-07-08 18:17:36 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 02:43:16 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'report.pdf'.
+2024-07-08 14:02:33 [WARNING] [HighMemoryUsage] Memory usage has exceeded 11% of total capacity.
+2024-07-08 13:04:51 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'log.txt'.
+2024-07-08 02:35:16 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (286ms).
+2024-07-08 16:52:55 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/logs'.
+2024-07-08 00:30:55 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 05:42:32 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'report.pdf'.
+2024-07-08 14:37:34 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 09:05:08 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (262ms).
+2024-07-08 21:41:55 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 06:20:09 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 15:13:17 [WARNING] [CPUOverload] CPU usage has been above 29% for the last 13 minutes.
+2024-07-08 21:26:20 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 42 seconds.
+2024-07-08 18:44:24 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 18:16:03 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 20:00:50 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 10:18:57 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 21:15:23 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (289ms).
+2024-07-08 00:04:16 [WARNING] [LowDiskSpace] Disk space is below 51% on drive 'C:'.
+2024-07-08 21:19:10 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/logs'.
+2024-07-08 16:10:17 [WARNING] [HighMemoryUsage] Memory usage has exceeded 19% of total capacity.
+2024-07-08 10:47:39 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'config.sys'.
+2024-07-08 12:26:30 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (308ms).
+2024-07-08 17:35:37 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 14:42:49 [WARNING] [HighMemoryUsage] Memory usage has exceeded 20% of total capacity.
+2024-07-08 03:07:24 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 21:19:13 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 60 seconds.
+2024-07-08 04:29:55 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 22:15:38 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 06:51:31 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'log.txt'.
+2024-07-08 04:45:09 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 00:06:43 [WARNING] [LowDiskSpace] Disk space is below 75% on drive 'D:'.
+2024-07-08 22:03:02 [WARNING] [CPUOverload] CPU usage has been above 27% for the last 18 minutes.
+2024-07-08 08:55:14 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 15:59:49 [WARNING] [LowDiskSpace] Disk space is below 17% on drive 'F:'.
+2024-07-08 05:57:45 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (213ms).
+2024-07-08 17:49:16 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 15 seconds.
+2024-07-08 10:30:22 [WARNING] [LowDiskSpace] Disk space is below 68% on drive 'G:'.
+2024-07-08 08:42:01 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'report.pdf'.
+2024-07-08 18:09:56 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 15 seconds.
+2024-07-08 06:23:48 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (483ms).
+2024-07-08 21:58:41 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 02:24:18 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 21:50:12 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 08:00:55 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/images'.
+2024-07-08 18:40:43 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (260ms).
+2024-07-08 02:47:10 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 00:00:45 [WARNING] [LowDiskSpace] Disk space is below 52% on drive 'C:'.
+2024-07-08 09:37:33 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/reports'.
+2024-07-08 12:14:18 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'data.csv'.
+2024-07-08 02:42:39 [WARNING] [HighMemoryUsage] Memory usage has exceeded 88% of total capacity.
+2024-07-08 14:54:32 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'data.csv'.
+2024-07-08 12:02:51 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (372ms).
+2024-07-08 01:09:26 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 12:20:21 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 13:56:41 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 22 seconds.
+2024-07-08 14:21:40 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 43 seconds.
+2024-07-08 16:22:58 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 17:47:48 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'log.txt'.
+2024-07-08 11:08:10 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 54 seconds.
+2024-07-08 02:56:25 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/reports'.
+2024-07-08 16:01:35 [WARNING] [CPUOverload] CPU usage has been above 12% for the last 27 minutes.
+2024-07-08 20:22:28 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/config'.
+2024-07-08 05:21:02 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 07:10:05 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/config'.
+2024-07-08 16:10:44 [WARNING] [HighMemoryUsage] Memory usage has exceeded 55% of total capacity.
+2024-07-08 00:25:48 [WARNING] [HighMemoryUsage] Memory usage has exceeded 74% of total capacity.
+2024-07-08 12:34:25 [WARNING] [CPUOverload] CPU usage has been above 53% for the last 15 minutes.
+2024-07-08 05:41:20 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/images'.
+2024-07-08 01:21:14 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 22:15:38 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 34 seconds.
+2024-07-08 11:09:06 [WARNING] [LowDiskSpace] Disk space is below 36% on drive 'C:'.
+2024-07-08 02:38:38 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 16:08:18 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 13:24:06 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (438ms).
+2024-07-08 05:24:31 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 18:57:30 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (192ms).
+2024-07-08 05:54:49 [WARNING] [CPUOverload] CPU usage has been above 46% for the last 11 minutes.
+2024-07-08 22:45:00 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 13:38:43 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 12:49:24 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 22 seconds.
+2024-07-08 23:05:31 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/reports'.
+2024-07-08 16:18:57 [WARNING] [CPUOverload] CPU usage has been above 26% for the last 17 minutes.
+2024-07-08 21:54:16 [WARNING] [CPUOverload] CPU usage has been above 9% for the last 17 minutes.
+2024-07-08 06:37:01 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/config'.
+2024-07-08 05:31:33 [WARNING] [CPUOverload] CPU usage has been above 97% for the last 22 minutes.
+2024-07-08 01:15:52 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 08:16:01 [WARNING] [HighMemoryUsage] Memory usage has exceeded 85% of total capacity.
+2024-07-08 09:45:37 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 17:51:46 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 22:09:20 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'report.pdf'.
+2024-07-08 15:07:13 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'image.png'.
+2024-07-08 05:22:21 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/reports'.
+2024-07-08 21:19:32 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 17:31:14 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 22:00:01 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 18:51:46 [WARNING] [HighMemoryUsage] Memory usage has exceeded 16% of total capacity.
+2024-07-08 23:55:24 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 01:52:19 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 13:58:12 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/config'.
+2024-07-08 13:26:20 [WARNING] [LowDiskSpace] Disk space is below 67% on drive 'C:'.
+2024-07-08 11:14:29 [WARNING] [LowDiskSpace] Disk space is below 8% on drive 'G:'.
+2024-07-08 05:11:05 [WARNING] [CPUOverload] CPU usage has been above 57% for the last 3 minutes.
+2024-07-08 07:22:23 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 21:52:42 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 21:14:35 [WARNING] [HighMemoryUsage] Memory usage has exceeded 89% of total capacity.
+2024-07-08 03:44:39 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'report.pdf'.
+2024-07-08 06:53:46 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 22:33:14 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 42 seconds.
+2024-07-08 23:20:25 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'data.csv'.
+2024-07-08 21:19:28 [WARNING] [HighMemoryUsage] Memory usage has exceeded 70% of total capacity.
+2024-07-08 05:46:31 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'data.csv'.
+2024-07-08 21:34:36 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'image.png'.
+2024-07-08 13:32:26 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 18:55:25 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (158ms).
+2024-07-08 02:54:38 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/logs'.
+2024-07-08 03:00:41 [WARNING] [CPUOverload] CPU usage has been above 79% for the last 20 minutes.
+2024-07-08 02:32:22 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'log.txt'.
+2024-07-08 07:40:40 [WARNING] [CPUOverload] CPU usage has been above 81% for the last 22 minutes.
+2024-07-08 13:07:10 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 17:55:33 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 32 seconds.
+2024-07-08 22:34:35 [WARNING] [HighMemoryUsage] Memory usage has exceeded 70% of total capacity.
+2024-07-08 02:48:58 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 01:06:09 [WARNING] [CPUOverload] CPU usage has been above 88% for the last 3 minutes.
+2024-07-08 00:26:07 [WARNING] [LowDiskSpace] Disk space is below 51% on drive 'E:'.
+2024-07-08 00:55:05 [WARNING] [CPUOverload] CPU usage has been above 7% for the last 3 minutes.
+2024-07-08 00:13:01 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 18 seconds.
+2024-07-08 16:03:51 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 09:16:40 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 15:34:31 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'report.pdf'.
+2024-07-08 06:57:39 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'data.csv'.
+2024-07-08 00:54:39 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 06:03:16 [WARNING] [CPUOverload] CPU usage has been above 95% for the last 25 minutes.
+2024-07-08 20:37:29 [WARNING] [LowDiskSpace] Disk space is below 51% on drive 'C:'.
+2024-07-08 01:38:52 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (142ms).
+2024-07-08 05:35:04 [WARNING] [HighMemoryUsage] Memory usage has exceeded 50% of total capacity.
+2024-07-08 11:58:47 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 11:39:49 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'image.png'.
+2024-07-08 07:59:49 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/reports'.
+2024-07-08 16:23:24 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 25 seconds.
+2024-07-08 06:47:49 [WARNING] [LowDiskSpace] Disk space is below 47% on drive 'F:'.
+2024-07-08 02:55:20 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'image.png'.
+2024-07-08 04:41:16 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'report.pdf'.
+2024-07-08 17:25:43 [WARNING] [HighMemoryUsage] Memory usage has exceeded 3% of total capacity.
+2024-07-08 14:00:58 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 18:11:41 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 07:02:12 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (187ms).
+2024-07-08 14:52:08 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/config'.
+2024-07-08 15:07:26 [WARNING] [LowDiskSpace] Disk space is below 41% on drive 'F:'.
+2024-07-08 01:04:26 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 16:03:28 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 56 seconds.
+2024-07-08 08:41:40 [WARNING] [CPUOverload] CPU usage has been above 84% for the last 5 minutes.
+2024-07-08 16:10:06 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 47 seconds.
+2024-07-08 09:46:03 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 17:51:11 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 19:42:06 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/data'.
+2024-07-08 13:46:31 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/logs'.
+2024-07-08 15:53:50 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 60 seconds.
+2024-07-08 22:03:08 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 15:38:28 [WARNING] [HighMemoryUsage] Memory usage has exceeded 76% of total capacity.
+2024-07-08 09:05:45 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 09:27:19 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 06:10:41 [WARNING] [LowDiskSpace] Disk space is below 39% on drive 'G:'.
+2024-07-08 05:46:05 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 05:35:29 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 15 seconds.
+2024-07-08 21:53:57 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 08:18:15 [WARNING] [CPUOverload] CPU usage has been above 64% for the last 29 minutes.
+2024-07-08 13:10:13 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/images'.
+2024-07-08 15:05:51 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (459ms).
+2024-07-08 19:36:04 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'config.sys'.
+2024-07-08 21:42:38 [WARNING] [HighMemoryUsage] Memory usage has exceeded 2% of total capacity.
+2024-07-08 00:27:58 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/reports'.
+2024-07-08 18:24:35 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 36 seconds.
+2024-07-08 15:08:30 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 14 seconds.
+2024-07-08 10:38:01 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 19:57:24 [WARNING] [LowDiskSpace] Disk space is below 88% on drive 'G:'.
+2024-07-08 10:56:38 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/config'.
+2024-07-08 02:52:22 [WARNING] [CPUOverload] CPU usage has been above 27% for the last 1 minutes.
+2024-07-08 11:18:42 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 06:16:59 [WARNING] [HighMemoryUsage] Memory usage has exceeded 20% of total capacity.
+2024-07-08 06:45:56 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 51 seconds.
+2024-07-08 03:36:33 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'report.pdf'.
+2024-07-08 04:46:27 [WARNING] [LowDiskSpace] Disk space is below 26% on drive 'D:'.
+2024-07-08 20:45:34 [WARNING] [HighMemoryUsage] Memory usage has exceeded 9% of total capacity.
+2024-07-08 13:46:00 [WARNING] [LowDiskSpace] Disk space is below 76% on drive 'E:'.
+2024-07-08 00:17:18 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 38 seconds.
+2024-07-08 06:51:31 [WARNING] [CPUOverload] CPU usage has been above 62% for the last 22 minutes.
+2024-07-08 23:00:00 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'report.pdf'.
+2024-07-08 03:05:51 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 04:46:47 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/data'.
+2024-07-08 13:12:09 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (152ms).
+2024-07-08 03:48:52 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 03:07:08 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 22:24:46 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 20:56:59 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 11:51:49 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 15:01:07 [WARNING] [HighMemoryUsage] Memory usage has exceeded 8% of total capacity.
+2024-07-08 17:07:35 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'data.csv'.
+2024-07-08 09:19:05 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 03:00:15 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 07:33:23 [WARNING] [LowDiskSpace] Disk space is below 28% on drive 'D:'.
+2024-07-08 02:39:52 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (156ms).
+2024-07-08 05:49:41 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (147ms).
+2024-07-08 22:29:48 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 04:33:08 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 18:10:10 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'config.sys'.
+2024-07-08 03:40:58 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 02:47:07 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 12 seconds.
+2024-07-08 16:21:44 [WARNING] [CPUOverload] CPU usage has been above 12% for the last 16 minutes.
+2024-07-08 12:54:39 [WARNING] [LowDiskSpace] Disk space is below 68% on drive 'C:'.
+2024-07-08 00:26:27 [WARNING] [LowDiskSpace] Disk space is below 36% on drive 'D:'.
+2024-07-08 20:09:38 [WARNING] [LowDiskSpace] Disk space is below 70% on drive 'G:'.
+2024-07-08 08:43:02 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 18:16:54 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (414ms).
+2024-07-08 01:08:54 [WARNING] [LowDiskSpace] Disk space is below 75% on drive 'C:'.
+2024-07-08 13:18:38 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/logs'.
+2024-07-08 00:16:18 [WARNING] [LowDiskSpace] Disk space is below 3% on drive 'F:'.
+2024-07-08 17:18:55 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/reports'.
+2024-07-08 13:26:42 [WARNING] [CPUOverload] CPU usage has been above 23% for the last 11 minutes.
+2024-07-08 10:40:13 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/images'.
+2024-07-08 07:19:19 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (323ms).
+2024-07-08 08:53:25 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 06:14:32 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 18:05:31 [WARNING] [CPUOverload] CPU usage has been above 58% for the last 17 minutes.
+2024-07-08 19:33:54 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 12:25:18 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 20:11:44 [WARNING] [LowDiskSpace] Disk space is below 3% on drive 'D:'.
+2024-07-08 21:32:10 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (127ms).
+2024-07-08 10:52:29 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (261ms).
+2024-07-08 06:23:02 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (200ms).
+2024-07-08 12:43:12 [WARNING] [HighMemoryUsage] Memory usage has exceeded 63% of total capacity.
+2024-07-08 18:03:19 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (217ms).
+2024-07-08 10:56:01 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/data'.
+2024-07-08 15:58:12 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 03:13:22 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/logs'.
+2024-07-08 13:41:24 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/images'.
+2024-07-08 14:33:35 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 23 seconds.
+2024-07-08 13:23:47 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 48 seconds.
+2024-07-08 03:21:10 [WARNING] [LowDiskSpace] Disk space is below 93% on drive 'C:'.
+2024-07-08 18:36:58 [WARNING] [LowDiskSpace] Disk space is below 54% on drive 'D:'.
+2024-07-08 16:28:51 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (372ms).
+2024-07-08 00:41:53 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 04:32:34 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 34 seconds.
+2024-07-08 19:29:00 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/images'.
+2024-07-08 07:36:12 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 23:31:06 [WARNING] [CPUOverload] CPU usage has been above 64% for the last 18 minutes.
+2024-07-08 15:57:21 [WARNING] [LowDiskSpace] Disk space is below 9% on drive 'E:'.
+2024-07-08 03:54:58 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 06:52:44 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 11 seconds.
+2024-07-08 09:46:02 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'report.pdf'.
+2024-07-08 13:42:48 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 12:35:02 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 23 seconds.
+2024-07-08 08:24:00 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 15 seconds.
+2024-07-08 18:15:37 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 60 seconds.
+2024-07-08 03:53:13 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'log.txt'.
+2024-07-08 19:35:33 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 01:10:04 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 01:28:48 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 03:37:08 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (224ms).
+2024-07-08 20:04:56 [WARNING] [CPUOverload] CPU usage has been above 12% for the last 25 minutes.
+2024-07-08 10:33:17 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 13:11:44 [WARNING] [HighMemoryUsage] Memory usage has exceeded 35% of total capacity.
+2024-07-08 20:38:23 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 07:11:44 [WARNING] [CPUOverload] CPU usage has been above 76% for the last 8 minutes.
+2024-07-08 20:50:12 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'log.txt'.
+2024-07-08 02:11:35 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'report.pdf'.
+2024-07-08 17:57:45 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 23:28:53 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/data'.
+2024-07-08 09:04:12 [WARNING] [CPUOverload] CPU usage has been above 82% for the last 23 minutes.
+2024-07-08 19:05:43 [WARNING] [HighMemoryUsage] Memory usage has exceeded 69% of total capacity.
+2024-07-08 17:20:28 [WARNING] [HighMemoryUsage] Memory usage has exceeded 42% of total capacity.
+2024-07-08 02:37:07 [WARNING] [HighMemoryUsage] Memory usage has exceeded 68% of total capacity.
+2024-07-08 01:37:28 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 11:58:12 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 08:54:14 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 03:59:02 [WARNING] [LowDiskSpace] Disk space is below 52% on drive 'G:'.
+2024-07-08 07:16:16 [WARNING] [CPUOverload] CPU usage has been above 24% for the last 21 minutes.
+2024-07-08 02:14:51 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 20:47:05 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 19:26:19 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'data.csv'.
+2024-07-08 06:16:26 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (211ms).
+2024-07-08 18:56:58 [WARNING] [HighMemoryUsage] Memory usage has exceeded 2% of total capacity.
+2024-07-08 20:03:38 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 08:38:41 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 15:41:23 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 05:48:22 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 11:35:28 [WARNING] [CPUOverload] CPU usage has been above 66% for the last 7 minutes.
+2024-07-08 12:58:01 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/data'.
+2024-07-08 11:42:42 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 18:30:56 [WARNING] [CPUOverload] CPU usage has been above 79% for the last 24 minutes.
+2024-07-08 18:19:45 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 36 seconds.
+2024-07-08 01:06:57 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 18:04:53 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 13:41:17 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 39 seconds.
+2024-07-08 07:42:57 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 19:56:18 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 03:51:22 [WARNING] [HighMemoryUsage] Memory usage has exceeded 74% of total capacity.
+2024-07-08 07:13:46 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/data'.
+2024-07-08 12:21:38 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 08:06:10 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 56 seconds.
+2024-07-08 03:30:46 [WARNING] [CPUOverload] CPU usage has been above 15% for the last 16 minutes.
+2024-07-08 13:48:24 [WARNING] [HighMemoryUsage] Memory usage has exceeded 16% of total capacity.
+2024-07-08 06:57:03 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (350ms).
+2024-07-08 09:56:24 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 17:28:28 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'log.txt'.
+2024-07-08 21:56:02 [WARNING] [HighMemoryUsage] Memory usage has exceeded 79% of total capacity.
+2024-07-08 10:01:31 [WARNING] [CPUOverload] CPU usage has been above 10% for the last 1 minutes.
+2024-07-08 09:09:06 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 02:20:08 [WARNING] [CPUOverload] CPU usage has been above 53% for the last 8 minutes.
+2024-07-08 10:21:13 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 25 seconds.
+2024-07-08 07:50:12 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 17:56:32 [WARNING] [CPUOverload] CPU usage has been above 12% for the last 29 minutes.
+2024-07-08 06:41:02 [WARNING] [HighMemoryUsage] Memory usage has exceeded 85% of total capacity.
+2024-07-08 20:35:51 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 20:10:43 [WARNING] [HighMemoryUsage] Memory usage has exceeded 9% of total capacity.
+2024-07-08 22:39:51 [WARNING] [LowDiskSpace] Disk space is below 87% on drive 'D:'.
+2024-07-08 03:55:39 [WARNING] [HighMemoryUsage] Memory usage has exceeded 1% of total capacity.
+2024-07-08 20:24:50 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/data'.
+2024-07-08 07:39:51 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 10:24:10 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 16:25:34 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'data.csv'.
+2024-07-08 15:33:15 [WARNING] [LowDiskSpace] Disk space is below 45% on drive 'G:'.
+2024-07-08 06:41:16 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 01:22:22 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 04:27:09 [WARNING] [HighMemoryUsage] Memory usage has exceeded 69% of total capacity.
+2024-07-08 00:54:06 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 09:18:18 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'image.png'.
+2024-07-08 08:51:36 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'report.pdf'.
+2024-07-08 13:18:14 [WARNING] [CPUOverload] CPU usage has been above 75% for the last 11 minutes.
+2024-07-08 17:40:02 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 58 seconds.
+2024-07-08 00:21:31 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 14:41:01 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 23:47:16 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 34 seconds.
+2024-07-08 05:01:18 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/images'.
+2024-07-08 18:22:36 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 04:39:49 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 11:18:02 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/logs'.
+2024-07-08 12:30:44 [WARNING] [HighMemoryUsage] Memory usage has exceeded 43% of total capacity.
+2024-07-08 15:26:36 [WARNING] [HighMemoryUsage] Memory usage has exceeded 17% of total capacity.
+2024-07-08 19:37:16 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'config.sys'.
+2024-07-08 07:25:19 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 03:44:10 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 14:13:40 [WARNING] [HighMemoryUsage] Memory usage has exceeded 36% of total capacity.
+2024-07-08 01:57:03 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 20:04:56 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'config.sys'.
+2024-07-08 06:37:30 [WARNING] [CPUOverload] CPU usage has been above 68% for the last 6 minutes.
+2024-07-08 19:05:18 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'report.pdf'.
+2024-07-08 15:52:04 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 20:36:13 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 09:06:56 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/images'.
+2024-07-08 06:10:10 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 19:03:51 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 22:59:48 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (124ms).
+2024-07-08 20:48:37 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (471ms).
+2024-07-08 22:28:41 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 13:12:06 [WARNING] [CPUOverload] CPU usage has been above 59% for the last 6 minutes.
+2024-07-08 12:56:57 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 05:01:40 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 47 seconds.
+2024-07-08 19:56:10 [WARNING] [HighMemoryUsage] Memory usage has exceeded 73% of total capacity.
+2024-07-08 22:52:50 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/logs'.
+2024-07-08 14:51:25 [WARNING] [LowDiskSpace] Disk space is below 89% on drive 'D:'.
+2024-07-08 11:21:54 [WARNING] [LowDiskSpace] Disk space is below 84% on drive 'D:'.
+2024-07-08 07:57:07 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (388ms).
+2024-07-08 07:32:14 [WARNING] [LowDiskSpace] Disk space is below 51% on drive 'D:'.
+2024-07-08 17:16:03 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (250ms).
+2024-07-08 03:59:45 [WARNING] [LowDiskSpace] Disk space is below 18% on drive 'G:'.
+2024-07-08 07:17:35 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 00:47:14 [WARNING] [HighMemoryUsage] Memory usage has exceeded 92% of total capacity.
+2024-07-08 19:13:23 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (126ms).
+2024-07-08 21:23:02 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/data'.
+2024-07-08 04:43:13 [WARNING] [CPUOverload] CPU usage has been above 80% for the last 30 minutes.
+2024-07-08 23:41:42 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/config'.
+2024-07-08 23:39:13 [WARNING] [CPUOverload] CPU usage has been above 51% for the last 20 minutes.
+2024-07-08 01:14:53 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 23:26:22 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 41 seconds.
+2024-07-08 11:39:43 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'config.sys'.
+2024-07-08 04:32:14 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 38 seconds.
+2024-07-08 17:06:55 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 17:41:48 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'report.pdf'.
+2024-07-08 17:17:38 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'config.sys'.
+2024-07-08 08:58:10 [WARNING] [LowDiskSpace] Disk space is below 70% on drive 'D:'.
+2024-07-08 03:56:11 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 21:02:29 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 05:52:25 [WARNING] [HighMemoryUsage] Memory usage has exceeded 35% of total capacity.
+2024-07-08 04:36:45 [WARNING] [CPUOverload] CPU usage has been above 92% for the last 25 minutes.
+2024-07-08 21:12:53 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (253ms).
+2024-07-08 02:15:29 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'config.sys'.
+2024-07-08 11:53:36 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (320ms).
+2024-07-08 07:30:28 [WARNING] [HighMemoryUsage] Memory usage has exceeded 34% of total capacity.
+2024-07-08 09:53:43 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 08:09:53 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/config'.
+2024-07-08 00:03:00 [WARNING] [LowDiskSpace] Disk space is below 37% on drive 'E:'.
+2024-07-08 08:02:08 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 04:41:41 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 07:24:38 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 15:46:33 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 15:38:54 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (305ms).
+2024-07-08 17:42:50 [WARNING] [CPUOverload] CPU usage has been above 29% for the last 8 minutes.
+2024-07-08 11:29:15 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/config'.
+2024-07-08 00:26:03 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 14:59:59 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (171ms).
+2024-07-08 09:48:34 [WARNING] [HighMemoryUsage] Memory usage has exceeded 91% of total capacity.
+2024-07-08 21:36:22 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (295ms).
+2024-07-08 19:53:43 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 19:08:53 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 00:06:26 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 06:18:54 [WARNING] [LowDiskSpace] Disk space is below 57% on drive 'G:'.
+2024-07-08 04:45:08 [WARNING] [LowDiskSpace] Disk space is below 72% on drive 'C:'.
+2024-07-08 14:39:33 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 18 seconds.
+2024-07-08 04:57:39 [WARNING] [LowDiskSpace] Disk space is below 85% on drive 'G:'.
+2024-07-08 21:15:34 [WARNING] [CPUOverload] CPU usage has been above 82% for the last 18 minutes.
+2024-07-08 15:24:59 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 24 seconds.
+2024-07-08 19:07:15 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 35 seconds.
+2024-07-08 02:16:09 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 12 seconds.
+2024-07-08 02:46:35 [WARNING] [HighMemoryUsage] Memory usage has exceeded 44% of total capacity.
+2024-07-08 17:13:02 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'config.sys'.
+2024-07-08 02:49:55 [WARNING] [LowDiskSpace] Disk space is below 84% on drive 'F:'.
+2024-07-08 12:19:17 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 03:50:19 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 07:58:25 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'report.pdf'.
+2024-07-08 06:42:04 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 23:46:14 [WARNING] [CPUOverload] CPU usage has been above 82% for the last 7 minutes.
+2024-07-08 01:58:01 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'log.txt'.
+2024-07-08 01:07:17 [WARNING] [LowDiskSpace] Disk space is below 59% on drive 'C:'.
+2024-07-08 13:10:50 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (148ms).
+2024-07-08 01:06:02 [WARNING] [CPUOverload] CPU usage has been above 75% for the last 10 minutes.
+2024-07-08 04:14:05 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 30 seconds.
+2024-07-08 10:54:05 [WARNING] [CPUOverload] CPU usage has been above 39% for the last 5 minutes.
+2024-07-08 01:56:15 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/logs'.
+2024-07-08 18:41:03 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 42 seconds.
+2024-07-08 05:01:43 [WARNING] [LowDiskSpace] Disk space is below 32% on drive 'E:'.
+2024-07-08 04:09:04 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'report.pdf'.
+2024-07-08 17:22:38 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 18:25:32 [WARNING] [CPUOverload] CPU usage has been above 64% for the last 16 minutes.
+2024-07-08 15:25:55 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'log.txt'.
+2024-07-08 18:00:04 [WARNING] [HighMemoryUsage] Memory usage has exceeded 15% of total capacity.
+2024-07-08 21:44:16 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 13:03:31 [WARNING] [CPUOverload] CPU usage has been above 46% for the last 5 minutes.
+2024-07-08 11:30:25 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/config'.
+2024-07-08 19:19:43 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 20:39:09 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 05:53:17 [WARNING] [CPUOverload] CPU usage has been above 82% for the last 4 minutes.
+2024-07-08 22:11:03 [WARNING] [LowDiskSpace] Disk space is below 4% on drive 'C:'.
+2024-07-08 13:00:48 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 35 seconds.
+2024-07-08 23:35:35 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 06:40:09 [WARNING] [LowDiskSpace] Disk space is below 16% on drive 'F:'.
+2024-07-08 18:44:30 [WARNING] [LowDiskSpace] Disk space is below 55% on drive 'E:'.
+2024-07-08 14:19:03 [WARNING] [LowDiskSpace] Disk space is below 93% on drive 'D:'.
+2024-07-08 14:15:38 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'config.sys'.
+2024-07-08 16:09:10 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 10:14:47 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 06:27:59 [WARNING] [LowDiskSpace] Disk space is below 84% on drive 'C:'.
+2024-07-08 01:31:55 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/data'.
+2024-07-08 18:42:27 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'image.png'.
+2024-07-08 01:30:38 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 20:38:48 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/images'.
+2024-07-08 22:41:58 [WARNING] [LowDiskSpace] Disk space is below 70% on drive 'F:'.
+2024-07-08 02:37:15 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (460ms).
+2024-07-08 15:39:42 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 19:34:19 [WARNING] [CPUOverload] CPU usage has been above 28% for the last 14 minutes.
+2024-07-08 07:09:28 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 00:54:05 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/logs'.
+2024-07-08 00:36:29 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (453ms).
+2024-07-08 05:59:46 [WARNING] [CPUOverload] CPU usage has been above 52% for the last 16 minutes.
+2024-07-08 09:26:46 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 19:35:34 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 01:49:32 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 21:41:45 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 49 seconds.
+2024-07-08 22:10:31 [WARNING] [LowDiskSpace] Disk space is below 56% on drive 'E:'.
+2024-07-08 10:24:19 [WARNING] [HighMemoryUsage] Memory usage has exceeded 39% of total capacity.
+2024-07-08 16:32:14 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (421ms).
+2024-07-08 02:14:35 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/images'.
+2024-07-08 23:45:54 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/data'.
+2024-07-08 23:43:07 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 21:27:00 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.5' timed out after 21 seconds.
+2024-07-08 17:05:35 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (492ms).
+2024-07-08 03:23:30 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 48 seconds.
+2024-07-08 16:48:07 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 60 seconds.
+2024-07-08 11:15:57 [WARNING] [CPUOverload] CPU usage has been above 98% for the last 18 minutes.
+2024-07-08 04:47:39 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 18:09:06 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 48 seconds.
+2024-07-08 21:15:16 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 11:32:44 [WARNING] [HighMemoryUsage] Memory usage has exceeded 76% of total capacity.
+2024-07-08 11:34:23 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 49 seconds.
+2024-07-08 05:06:05 [WARNING] [CPUOverload] CPU usage has been above 6% for the last 2 minutes.
+2024-07-08 19:13:46 [WARNING] [CPUOverload] CPU usage has been above 7% for the last 25 minutes.
+2024-07-08 05:58:29 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 20:32:44 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 13:08:54 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 15:30:07 [WARNING] [HighMemoryUsage] Memory usage has exceeded 52% of total capacity.
+2024-07-08 02:59:19 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 14:18:16 [WARNING] [HighMemoryUsage] Memory usage has exceeded 40% of total capacity.
+2024-07-08 06:26:36 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (240ms).
+2024-07-08 18:17:03 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 01:09:48 [WARNING] [HighMemoryUsage] Memory usage has exceeded 30% of total capacity.
+2024-07-08 10:26:55 [WARNING] [LowDiskSpace] Disk space is below 26% on drive 'D:'.
+2024-07-08 20:26:44 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 19:07:43 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 17:52:27 [WARNING] [HighMemoryUsage] Memory usage has exceeded 94% of total capacity.
+2024-07-08 02:16:08 [WARNING] [CPUOverload] CPU usage has been above 86% for the last 11 minutes.
+2024-07-08 15:38:53 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 03:43:28 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 03:57:26 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (363ms).
+2024-07-08 18:20:52 [WARNING] [LowDiskSpace] Disk space is below 100% on drive 'D:'.
+2024-07-08 02:22:08 [WARNING] [LowDiskSpace] Disk space is below 50% on drive 'D:'.
+2024-07-08 16:44:43 [WARNING] [HighMemoryUsage] Memory usage has exceeded 65% of total capacity.
+2024-07-08 09:15:31 [WARNING] [HighMemoryUsage] Memory usage has exceeded 71% of total capacity.
+2024-07-08 10:38:10 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/reports'.
+2024-07-08 01:59:04 [WARNING] [HighMemoryUsage] Memory usage has exceeded 96% of total capacity.
+2024-07-08 18:35:33 [WARNING] [CPUOverload] CPU usage has been above 91% for the last 17 minutes.
+2024-07-08 06:39:13 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 10:28:13 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 07:44:01 [WARNING] [HighMemoryUsage] Memory usage has exceeded 45% of total capacity.
+2024-07-08 00:19:26 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 09:57:43 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 04:52:19 [WARNING] [HighMemoryUsage] Memory usage has exceeded 80% of total capacity.
+2024-07-08 07:08:22 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 20:48:03 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'image.png'.
+2024-07-08 19:34:54 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'image.png'.
+2024-07-08 05:33:50 [WARNING] [HighMemoryUsage] Memory usage has exceeded 1% of total capacity.
+2024-07-08 13:29:41 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'config.sys'.
+2024-07-08 00:18:28 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 12:15:46 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 36 seconds.
+2024-07-08 22:57:54 [WARNING] [HighMemoryUsage] Memory usage has exceeded 59% of total capacity.
+2024-07-08 13:44:59 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 09:32:09 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/data'.
+2024-07-08 23:46:39 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/images'.
+2024-07-08 03:04:01 [WARNING] [HighMemoryUsage] Memory usage has exceeded 2% of total capacity.
+2024-07-08 18:29:28 [WARNING] [LowDiskSpace] Disk space is below 75% on drive 'F:'.
+2024-07-08 07:52:22 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/config'.
+2024-07-08 21:12:45 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 12:28:16 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'data.csv'.
+2024-07-08 06:26:50 [WARNING] [CPUOverload] CPU usage has been above 4% for the last 14 minutes.
+2024-07-08 01:05:23 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/images'.
+2024-07-08 08:54:51 [ERROR] [FileNotFound] File 'data.csv' not found in directory '/home/user/reports'.
+2024-07-08 08:21:38 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 04:41:11 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'log.txt'.
+2024-07-08 11:55:27 [WARNING] [HighMemoryUsage] Memory usage has exceeded 95% of total capacity.
+2024-07-08 13:57:22 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (211ms).
+2024-07-08 15:32:19 [WARNING] [CPUOverload] CPU usage has been above 81% for the last 29 minutes.
+2024-07-08 09:09:01 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'image.png'.
+2024-07-08 03:28:37 [WARNING] [HighMemoryUsage] Memory usage has exceeded 96% of total capacity.
+2024-07-08 16:21:15 [WARNING] [CPUOverload] CPU usage has been above 64% for the last 25 minutes.
+2024-07-08 00:30:02 [WARNING] [LowDiskSpace] Disk space is below 41% on drive 'G:'.
+2024-07-08 04:25:15 [WARNING] [LowDiskSpace] Disk space is below 43% on drive 'C:'.
+2024-07-08 10:49:44 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/images'.
+2024-07-08 08:12:54 [WARNING] [LowDiskSpace] Disk space is below 86% on drive 'G:'.
+2024-07-08 06:29:44 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (351ms).
+2024-07-08 00:15:08 [WARNING] [CPUOverload] CPU usage has been above 13% for the last 19 minutes.
+2024-07-08 17:10:44 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 02:23:49 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/images'.
+2024-07-08 15:38:16 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 18:36:06 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 11:25:37 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (314ms).
+2024-07-08 04:26:55 [WARNING] [CPUOverload] CPU usage has been above 50% for the last 8 minutes.
+2024-07-08 17:21:59 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/logs'.
+2024-07-08 07:21:44 [WARNING] [HighMemoryUsage] Memory usage has exceeded 53% of total capacity.
+2024-07-08 07:45:53 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/images'.
+2024-07-08 17:15:03 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/reports'.
+2024-07-08 13:32:00 [WARNING] [LowDiskSpace] Disk space is below 77% on drive 'C:'.
+2024-07-08 00:16:22 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 21:40:09 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 05:31:05 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (114ms).
+2024-07-08 17:00:58 [WARNING] [DeprecatedFunction] Function 'oldAPI()' is deprecated and will be removed in future versions.
+2024-07-08 04:05:04 [WARNING] [CPUOverload] CPU usage has been above 4% for the last 21 minutes.
+2024-07-08 03:34:38 [WARNING] [HighMemoryUsage] Memory usage has exceeded 64% of total capacity.
+2024-07-08 18:01:13 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 05:23:50 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 57 seconds.
+2024-07-08 22:03:01 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 42 seconds.
+2024-07-08 07:20:58 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 19:17:27 [WARNING] [HighMemoryUsage] Memory usage has exceeded 85% of total capacity.
+2024-07-08 02:37:32 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 18 seconds.
+2024-07-08 04:24:39 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 20:57:10 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 08:42:25 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 06:17:25 [WARNING] [CPUOverload] CPU usage has been above 33% for the last 19 minutes.
+2024-07-08 00:46:27 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/images'.
+2024-07-08 07:39:36 [WARNING] [HighMemoryUsage] Memory usage has exceeded 19% of total capacity.
+2024-07-08 10:04:05 [WARNING] [CPUOverload] CPU usage has been above 66% for the last 25 minutes.
+2024-07-08 01:59:31 [WARNING] [LowDiskSpace] Disk space is below 90% on drive 'D:'.
+2024-07-08 18:41:38 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.3' timed out after 27 seconds.
+2024-07-08 11:17:19 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 01:14:16 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 19:03:13 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (117ms).
+2024-07-08 04:02:17 [WARNING] [CPUOverload] CPU usage has been above 81% for the last 18 minutes.
+2024-07-08 12:02:54 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 07:26:44 [WARNING] [CPUOverload] CPU usage has been above 53% for the last 13 minutes.
+2024-07-08 03:28:01 [WARNING] [LowDiskSpace] Disk space is below 76% on drive 'F:'.
+2024-07-08 03:15:16 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'report.pdf'.
+2024-07-08 21:21:48 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'data.csv'.
+2024-07-08 12:13:13 [ERROR] [InvalidInput] Invalid input detected in field 'password' during form submission.
+2024-07-08 03:45:59 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 04:54:48 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 11:01:52 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 00:38:50 [WARNING] [LowDiskSpace] Disk space is below 10% on drive 'D:'.
+2024-07-08 19:18:20 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (180ms).
+2024-07-08 19:35:49 [ERROR] [FileNotFound] File 'log.txt' not found in directory '/home/user/logs'.
+2024-07-08 14:52:39 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'image.png'.
+2024-07-08 15:46:01 [ERROR] [DatabaseError] Failed to connect to database 'devDB' due to authentication failure.
+2024-07-08 18:06:50 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 08:57:52 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 29 seconds.
+2024-07-08 08:07:35 [WARNING] [LowDiskSpace] Disk space is below 30% on drive 'F:'.
+2024-07-08 02:33:05 [ERROR] [AccessDenied] User 'admin' attempted to access restricted file 'image.png'.
+2024-07-08 03:42:32 [WARNING] [CPUOverload] CPU usage has been above 5% for the last 28 minutes.
+2024-07-08 19:52:33 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.4' timed out after 55 seconds.
+2024-07-08 09:59:40 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 12:20:11 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 02:18:48 [WARNING] [LowDiskSpace] Disk space is below 86% on drive 'C:'.
+2024-07-08 21:29:53 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 20:37:46 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (446ms).
+2024-07-08 01:05:20 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 11 seconds.
+2024-07-08 09:36:54 [WARNING] [DeprecatedFunction] Function 'oldService()' is deprecated and will be removed in future versions.
+2024-07-08 20:59:14 [WARNING] [HighMemoryUsage] Memory usage has exceeded 99% of total capacity.
+2024-07-08 05:48:44 [ERROR] [InvalidInput] Invalid input detected in field 'email' during form submission.
+2024-07-08 05:32:37 [ERROR] [DatabaseError] Failed to connect to database 'stagingDB' due to authentication failure.
+2024-07-08 13:01:51 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 54 seconds.
+2024-07-08 01:39:55 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 05:23:41 [ERROR] [AccessDenied] User 'user3' attempted to access restricted file 'report.pdf'.
+2024-07-08 22:57:55 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 13:42:08 [WARNING] [HighMemoryUsage] Memory usage has exceeded 6% of total capacity.
+2024-07-08 09:51:11 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'config.sys'.
+2024-07-08 15:05:35 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 00:18:46 [ERROR] [AccessDenied] User 'user1' attempted to access restricted file 'report.pdf'.
+2024-07-08 01:03:58 [WARNING] [HighMemoryUsage] Memory usage has exceeded 55% of total capacity.
+2024-07-08 10:48:27 [WARNING] [CPUOverload] CPU usage has been above 5% for the last 17 minutes.
+2024-07-08 17:38:29 [ERROR] [DatabaseError] Failed to connect to database 'testDB' due to authentication failure.
+2024-07-08 12:22:32 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 02:14:31 [ERROR] [InvalidInput] Invalid input detected in field 'username' during form submission.
+2024-07-08 04:01:43 [WARNING] [DeprecatedFunction] Function 'oldFunction()' is deprecated and will be removed in future versions.
+2024-07-08 01:46:55 [WARNING] [CPUOverload] CPU usage has been above 27% for the last 30 minutes.
+2024-07-08 12:19:38 [ERROR] [FileNotFound] File 'config.sys' not found in directory '/home/user/data'.
+2024-07-08 03:11:33 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.2' timed out after 37 seconds.
+2024-07-08 10:36:53 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 21:52:31 [ERROR] [DatabaseError] Failed to connect to database 'userDB' due to authentication failure.
+2024-07-08 18:18:11 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (364ms).
+2024-07-08 12:06:24 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'report.pdf'.
+2024-07-08 19:34:02 [ERROR] [InvalidInput] Invalid input detected in field 'address' during form submission.
+2024-07-08 03:31:39 [WARNING] [LowDiskSpace] Disk space is below 11% on drive 'D:'.
+2024-07-08 13:51:59 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 17:42:37 [ERROR] [AccessDenied] User 'guest' attempted to access restricted file 'data.csv'.
+2024-07-08 03:43:42 [WARNING] [HighMemoryUsage] Memory usage has exceeded 95% of total capacity.
+2024-07-08 10:25:23 [WARNING] [CPUOverload] CPU usage has been above 2% for the last 20 minutes.
+2024-07-08 06:20:23 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (449ms).
+2024-07-08 23:08:03 [ERROR] [FileNotFound] File 'image.png' not found in directory '/home/user/images'.
+2024-07-08 10:54:04 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/config'.
+2024-07-08 08:22:14 [ERROR] [DatabaseError] Failed to connect to database 'prodDB' due to authentication failure.
+2024-07-08 04:46:01 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (469ms).
+2024-07-08 11:33:45 [WARNING] [HighMemoryUsage] Memory usage has exceeded 57% of total capacity.
+2024-07-08 03:19:37 [ERROR] [FileNotFound] File 'report.pdf' not found in directory '/home/user/data'.
+2024-07-08 23:44:05 [ERROR] [AccessDenied] User 'user2' attempted to access restricted file 'report.pdf'.
+2024-07-08 07:38:24 [WARNING] [NetworkLatency] Network latency is above acceptable threshold (224ms).
+2024-07-08 12:36:02 [ERROR] [InvalidInput] Invalid input detected in field 'phone' during form submission.
+2024-07-08 02:25:09 [WARNING] [DeprecatedFunction] Function 'legacyFunction()' is deprecated and will be removed in future versions.
+2024-07-08 16:03:34 [WARNING] [DeprecatedFunction] Function 'oldMethod()' is deprecated and will be removed in future versions.
+2024-07-08 14:59:40 [WARNING] [HighMemoryUsage] Memory usage has exceeded 54% of total capacity.
+2024-07-08 18:22:41 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 16 seconds.
+2024-07-08 11:32:42 [ERROR] [ConnectionTimeout] Connection to server '192.168.1.1' timed out after 15 seconds.

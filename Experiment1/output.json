@@ -1,0 +1,42 @@
+[
+    {
+        "name": "AAA",
+        "totalPrice": 1000000,
+        "downPayment": 100000,
+        "interestRate": 5,
+        "loanDuration": 240,
+        "monthlyPayment": "5939.60"
+    },
+    {
+        "name": "BBB",
+        "totalPrice": 2000000,
+        "downPayment": 200000,
+        "interestRate": 5,
+        "loanDuration": 240,
+        "monthlyPayment": "11879.20"
+    },
+    {
+        "name": "CCC",
+        "totalPrice": 1000000,
+        "downPayment": 100000,
+        "interestRate": 5,
+        "loanDuration": 120,
+        "monthlyPayment": "9545.90"
+    },
+    {
+        "name": "DDD",
+        "totalPrice": 2000000,
+        "downPayment": 200000,
+        "interestRate": 1,
+        "loanDuration": 12,
+        "monthlyPayment": "150813.74"
+    },
+    {
+        "name": "EEE",
+        "totalPrice": 1000000,
+        "downPayment": 100000,
+        "interestRate": 10,
+        "loanDuration": 120,
+        "monthlyPayment": "11893.57"
+    }
+]
