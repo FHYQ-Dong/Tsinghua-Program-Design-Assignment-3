@@ -24,6 +24,7 @@ def calMonthPayment(totalPrice: float, downPayment: float, interestRate_perYear:
     ### Returns:
         float: 每月还款额（单位：元），保留两位小数（四舍五入）
     """
+    
     loanAmount = totalPrice - downPayment
     interestRate_perMonth = interestRate_perYear / 12 / 100
     monthPayment = loanAmount * interestRate_perMonth * (1 + 1 / ((1 + interestRate_perMonth)**loanDuration - 1))
@@ -31,6 +32,25 @@ def calMonthPayment(totalPrice: float, downPayment: float, interestRate_perYear:
 
 
 def main():
+    """
+    Calculate monthly payment based on the provided arguments or input file.
+
+    ### Arguments:
+    -t, --totalPrice: Total price of the loan (unit: RMB)
+    -p, --downPayment: Down payment amount (unit: RMB)
+    -i, --interestRate: Interest rate per year (unit: %)
+    -d, --loanDuration: Loan duration in months
+    -f, --file: Input file (JSON format)
+    -o, --output: Output file (JSON format)
+    -j, --showTemplateJsonFormat: Show template JSON format of input file
+
+    ### Returns:
+    - If -j or --showTemplateJsonFormat is provided, it prints the template JSON format of the input file.
+    - If -f or --file is provided, it calculates the monthly payment for each item in the input file and either writes the output to the specified output file or prints it to the console.
+    - If -t, -p, -i, and -d are provided, it calculates and prints the monthly payment based on the provided arguments.
+    - If no arguments are provided, it prints the help message.
+    """
+    
     parser = argparse.ArgumentParser(description='Calculate monthly payment')
     parser.add_argument('-t', '--totalPrice', type=float, help='Total price (unit: RMB)')
     parser.add_argument('-p', '--downPayment', type=float, help='Down payment (unit: RMB)')

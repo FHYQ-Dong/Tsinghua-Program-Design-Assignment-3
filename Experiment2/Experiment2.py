@@ -45,6 +45,18 @@ def parse_log_error_warning(logfile: typing.TextIO) -> dict[str, dict[str, int]]
 
 
 def cmp_error_item(item1: tuple[str, str, int], item2: tuple[str, str, int]) -> int:
+    """
+    Compare two error items based on their attributes.
+
+    ### Args:
+        item1 (tuple[str, str, int]): The first error item to compare.
+        item2 (tuple[str, str, int]): The second error item to compare.
+
+    ### Returns:
+        int: A negative value if item1 is less than item2, a positive value if item1 is greater than item2,
+             and 0 if item1 is equal to item2.
+
+    """
     return \
         item1[2] - item2[2] if item1[2] != item2[2] \
             else (item1[0] > item2[0]) - (item1[0] < item2[0]) if item1[0] != item2[0] \
@@ -52,7 +64,11 @@ def cmp_error_item(item1: tuple[str, str, int], item2: tuple[str, str, int]) -> 
                 
 
 def main():
-     with open('log.txt', 'r') as f:
+    """
+    This function reads a log file, parses the log for error and warning details,
+    and prints a sorted table of error types, error codes, and error counts.
+    """
+    with open('log.txt', 'r') as f:
         log_detail = parse_log_error_warning(f)
     
         log_detail_list = [
